@@ -1,2 +1,2 @@
 # GenAI
-Playing Around with GenAI Tools
+Playing around with GenAI tools
